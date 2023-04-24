@@ -1,3 +1,5 @@
+//Sample comment
+
 function getLabelName(innerHTML) {
     var str = innerHTML.toLowerCase();
     // Replace all '+' with 'p'
